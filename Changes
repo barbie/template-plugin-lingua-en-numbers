@@ -1,5 +1,7 @@
 Revision history for Template-Plugin-Lingua-EN-Numbers
 ======================================================
 
+        - fixed license fields in META.json to be lists.
+
 0.01    2014-06-21
 	    - first version
