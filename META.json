@@ -1,6 +1,6 @@
 {
     "name": "Template-Plugin-Lingua-EN-Numbers",
-    "version": "0.01",
+    "version": "0.02",
     "abstract": "TT2 interface to Lingua::EN::Numbers modules",
     "author": [
         "Barbie (BARBIE) <barbie@cpan.org>"
@@ -50,7 +50,7 @@
     "provides": {
         "Template::Plugin::Lingua::EN::Numbers": {
             "file": "lib/Template/Plugin/Lingua/EN/Numbers.pm",
-            "version": "0.01"
+            "version": "0.02"
         }
     },
     "no_index": {
